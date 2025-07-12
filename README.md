@@ -21,4 +21,4 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-![Snake animation](https://github.com/Rahulrocknov18/Rahulrocknov18/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Rahulrocknov18/Rahulrocknov18/raw/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
